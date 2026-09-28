@@ -84,7 +84,7 @@
             this.lblID.Name = "lblID";
             this.lblID.Size = new System.Drawing.Size(348, 16);
             this.lblID.TabIndex = 0;
-            this.lblID.Text = "Done by: Durgashini D/O Gunaseker (212017P) Group: E4";
+            this.lblID.Text = "Done by: Durgashini";
             this.lblID.Click += new System.EventHandler(this.lblID_Click);
             // 
             // btn7
