@@ -96,7 +96,7 @@ Scientific calculations include:
 
 For trigonometric operations, degree inputs are converted to radians before calculation when **DEG mode** is selected.
 
-### GUI Modes
+## GUI Modes
 
 The calculator supports two interface modes:
 
@@ -122,7 +122,7 @@ System sound feedback can also be enabled for user interactions.
 Clipboard Support
 Calculated results can be copied directly using: Clipboard.SetText() with a confirmation message displayed after copying.
 
-### Technologies Used
+## Technologies Used
 - C#
 - .NET Framework 4.8
 - Windows Forms (WinForms)
@@ -133,7 +133,7 @@ Calculated results can be copied directly using: Clipboard.SetText() with a conf
 - Object-oriented programming
 - GUI development
 
-### Project Structure
+## Project Structure
 ```text
 scientific-calculator-csharp-winforms/
 │
@@ -154,7 +154,7 @@ scientific-calculator-csharp-winforms/
 ├── .gitignore
 └── README.md
 ```
-### How to Run
+## How to Run
 Requirements
 - Windows
 - Visual Studio
@@ -170,7 +170,7 @@ Calculator_212017P.sln
 4. Run the application using:
 F5 or select Start in Visual Studio.
 
-### Skills Demonstrated
+## Skills Demonstrated
 - C# programming
 - .NET WinForms development
 - Event-driven programming
@@ -183,6 +183,6 @@ F5 or select Start in Visual Studio.
 - User-interface state management
 - Debugging and software testing
 
-### Academic Context
+## Academic Context
 This project was originally developed during my Diploma in Electronic & Computer Engineering at Nanyang Polytechnic and was later organized  for portfolio presentation.
 The project provided practical experience in developing an interactive desktop application and implementing event-driven GUI functionality using C# and .NET WinForms.
